@@ -1,0 +1,96 @@
+body {
+    background-image: url(../images/LEAF.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    background-attachment: fixed;
+  }
+
+  h3 {
+    padding-top: 30px;
+    margin: 10px 0 30px 0;
+    letter-spacing: 6px;      
+    font-size: 24px;
+    color: #fff;
+  }
+
+  h4 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 120px;
+    padding-left: 120px;
+    margin: 10px 0 30px 0;
+    letter-spacing: 3px;      
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+  }
+ .img-responsive {
+    margin: 0 auto;
+}
+
+.container-fluid-class {
+  padding-top: 125px;
+  padding-bottom: 70px;
+}
+  .nav-tabs li a {
+    color: #777;
+  }
+
+  .navbar {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+    background-color: #2e2e30;
+    border: 0;
+    font-size: 14px !important;
+    letter-spacing: 4px;
+    opacity: 0.8;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5;
+  }
+  .navbar-nav li a:hover {
+    color: #fff ;
+  }
+  .navbar-nav li.active a {
+    color: #fff;
+    background-color: #2e2e30 ;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  .tm-content
+{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.container-contact
+{
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-left: 50px; 
+  margin-right:50px;
+  padding-right: 250px;
+  padding-left: 250px;
+}
+
+.container-about
+{
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-left: 50px; 
+  margin-right:50px;
+  padding-right: 250px;
+  padding-left: 250px;
+}
+
+.bg-info
+{
+  background-color: olive;
+}
